@@ -120,13 +120,13 @@ http://192.168.253.254:8012/rtp/239.3.1.154:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京",房山电视台[高清]
 http://192.168.253.254:8012/rtp/239.3.1.96:8001
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[高清]
-https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+http://116.232.156.147:8888/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备1]
-http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/wxtyhd8m/8000000/mnf.m3u8
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备2]
-https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备3]
-http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
+https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备4]
 http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="爱尔达体育" tvg-logo="" group-title="[高清]F1",爱尔达体育1
