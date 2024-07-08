@@ -124,21 +124,25 @@ http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备1]
 http://58.41.30.154:8001/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备2]
-https://histar.zapi.us.kg/?id=wxty
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备3]
-http://222.67.181.60:8888/udp/239.45.3.210:5140
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备4]
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="" tvg-name="爱尔达体育" tvg-logo="" group-title="[高清]F1",爱尔达体育1
-http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-#EXTINF:-1 tvg-id="" tvg-name="爱尔达体育" tvg-logo="" group-title="[高清]F1",爱尔达体育2
-http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
-#EXTINF:-1 tvg-id="" tvg-name="SkySports F1" tvg-logo="" group-title="[高清]F1",SkySports F1
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/lvupvmnk.ss.m3u8
-#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174563
-#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育频道" tvg-logo="" group-title="[高清]F1",纬来体育频道
-http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
-#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育频道" tvg-logo="" group-title="[高清]F1",纬来体育频道[备1]
+#EXTINF:-1 tvg-name="马莎一台——五星超高清" tvg-logo="" group-title="[高清]F1",马莎一台——五星超高清
+https://6721.liveplay.now.qq.com/live/6721_11f91b4ae604d9050e6a623076c6be26.m3u8
+#EXTINF:-1 tvg-name="F1TV国际信号——SKY解说" tvg-logo="" group-title="[高清]F1",F1TV国际信号——SKY解说
+https://6721.liveplay.now.qq.com/live/6721_7e02bb6dad8409b90118c0087d2bf5f9.m3u8
+#EXTINF:-1 tvg-name="五星体育——机顶盒采集" tvg-logo="" group-title="[高清]F1",五星体育——机顶盒采集
+https://6721.liveplay.now.qq.com/live/6721_c74de3126cbd66f5db58eafdd97ec1d1.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="" group-title="[高清]F1",广东体育
+https://6721.liveplay.now.qq.com/live/6721_d0fd19dc0a5140e578489bb113567f74.m3u8
+#EXTINF:-1 tvg-name="马莎F1数据+24车载" tvg-logo="" group-title="[高清]F1",马莎F1数据+24车载
+https://6721.liveplay.now.qq.com/live/6721_341022fd094d62a37485c2a91bbb7c78.m3u8
+#EXTINF:-1 tvg-name="Sky天空体育 @CZCJiaxu个人解说" tvg-logo="" group-title="[高清]F1",Sky天空体育 @CZCJiaxu个人解说
+https://6721.liveplay.now.qq.com/live/6721_f5d204bf1a1612eab2f1861460d9ed73.m3u8
+#EXTINF:-1 tvg-name="F1TV @BruceBest" tvg-logo="" group-title="[高清]F1",F1TV @BruceBest
+https://6721.liveplay.now.qq.com/live/6721_6735fe81d88026f5677890bbf0bafd3e.m3u8
+#EXTINF:-1 tvg-name="备用F1TV-F1Kids儿童频道" tvg-logo="" group-title="[高清]F1",备用F1TV-F1Kids儿童频道
+https://6721.liveplay.now.qq.com/live/6721_851118084d80e1553d199162c430d6ae.m3u8
+#EXTINF:-1 tvg-name="备用F1TV2 @窝法的策略员工" tvg-logo="" group-title="[高清]F1",备用F1TV2 @窝法的策略员工
+https://6721.liveplay.now.qq.com/live/6721_c9ba7021e48d110dfa81102a84244e8f.m3u8
 #
 #EXTINF:-1 tvg-id="184" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="[高清]北京IPTV",爱上4K[4K]
 http://192.168.253.254:8012/rtp/239.3.1.236:2000
