@@ -120,13 +120,15 @@ http://192.168.253.254:8012/rtp/239.3.1.154:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京",房山电视台[高清]
 http://192.168.253.254:8012/rtp/239.3.1.96:8001
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[高清]
-http://112.25.48.68/live/program/live/ssty/4000000/mnf.m3u8
+http://180.165.21.206:7777/tsfile/live/1030_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备1]
-http://116.235.57.105:4022/udp/239.45.3.210:5140
+http://116.233.24.207:4022/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备2]
-https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv
+https://cdn3.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备3]
-http://218.1.219.238:85/tsfile/live/1010_1.m3u8?key=txiptv
+https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备4]
+http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
 #EXTINF:-1 tvg-name="马莎一台——五星超高清" tvg-logo="" group-title="[高清]F1",马莎一台——五星超高清
 http://agent.wanwanju.top/channel1.m3u8
 #EXTINF:-1 tvg-name="F1TV信号 @jump呆呆" tvg-logo="" group-title="[高清]F1",F1TV信号 @jump呆呆
@@ -433,4 +435,5 @@ http://192.168.253.254:8012/rtp/239.3.1.186:8001
 http://192.168.253.254:8012/rtp/239.3.1.187:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京IPTV",聚鲨国际
 http://192.168.253.254:8012/rtp/239.3.1.188:8001
+
 
