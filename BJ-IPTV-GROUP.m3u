@@ -110,13 +110,13 @@ http://192.168.253.254:8012/rtp/239.3.1.96:8001
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[高清]
 http://112.25.48.68/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备1]
-http://[2409:8087:1e01:23::20]:8112/000000001000/5000000010000017540/1.m3u8
+https://tv.iill.top/kdf/1605
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备2]
-http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+http://120.253.150.222:50312/tsfile/live/1031_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备3]
-http://111.56.90.5/000000000000/5000000010000017540/1.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备4]
 http://116.232.150.99:50001/tsfile/live/0001_41.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备4]
+http://111.56.90.5/000000000000/5000000010000017540/1.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备5]
 http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备6]
@@ -427,6 +427,7 @@ http://192.168.253.254:8012/rtp/239.3.1.186:8001
 http://192.168.253.254:8012/rtp/239.3.1.187:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京IPTV",聚鲨国际
 http://192.168.253.254:8012/rtp/239.3.1.188:8001
+
 
 
 
