@@ -110,7 +110,7 @@ http://192.168.253.254:8012/rtp/239.3.1.96:8001
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[高清]
 http://112.25.48.68/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备1]
-https://tv.iill.top/kdf/1605
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备2]
 http://120.253.150.222:50312/tsfile/live/1031_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备3]
