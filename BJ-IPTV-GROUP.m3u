@@ -108,7 +108,7 @@ http://192.168.253.254:8012/rtp/239.3.1.154:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京",房山电视台[高清]
 http://192.168.253.254:8012/rtp/239.3.1.96:8001
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[高清]
-http://112.25.48.68/live/program/live/ssty/4000000/mnf.m3u8
+https://volc-stream.kksmg.com/live/wxty/index.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHAiOiJsaXZlIiwiZG9tYWluIjoidm9sYy1zdHJlYW0ua2tzbWcuY29tIiwiZXhwIjoxNzgwODgwNDM0LCJpYXQiOjE3ODA4MzcyMzQsIm5vbmNlIjoiaGJwdXJyajIiLCJwbGF0Zm9ybSI6InBjIiwic3RyZWFtX25hbWUiOiJ3eHR5IiwidWFfaGFzaCI6ImtOcWxVV0JDYWR2Tnp5TjdYTWNBOHciLCJ1c2VyX2lkIjowLCJ1c2VyX2lwIjoiMjIxLjIyMC4xMzIuMTg2IiwidXVpZCI6Imd3UUk0QnhCZ3hjaDAyWnRMcW5LSyIsInZlcnNpb24iOiIyLjQxLjkifQ.7FNpsa9-qtYroUmySHbw_Kuh8lybXeAXaCFSUBPBGMI&volcSecret=055f27c8dbfeabe85a3a9d34146c4566&volcTime=1780880440
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备1]
 http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备2]
