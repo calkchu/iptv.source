@@ -108,11 +108,11 @@ http://192.168.253.254:8012/rtp/239.3.1.154:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京",房山电视台[高清]
 http://192.168.253.254:8012/rtp/239.3.1.96:8001
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[高清]
-https://volc-stream.kksmg.com/live/wxty/index.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHAiOiJsaXZlIiwiZG9tYWluIjoidm9sYy1zdHJlYW0ua2tzbWcuY29tIiwiZXhwIjoxNzgwODgwNDM0LCJpYXQiOjE3ODA4MzcyMzQsIm5vbmNlIjoiaGJwdXJyajIiLCJwbGF0Zm9ybSI6InBjIiwic3RyZWFtX25hbWUiOiJ3eHR5IiwidWFfaGFzaCI6ImtOcWxVV0JDYWR2Tnp5TjdYTWNBOHciLCJ1c2VyX2lkIjowLCJ1c2VyX2lwIjoiMjIxLjIyMC4xMzIuMTg2IiwidXVpZCI6Imd3UUk0QnhCZ3hjaDAyWnRMcW5LSyIsInZlcnNpb24iOiIyLjQxLjkifQ.7FNpsa9-qtYroUmySHbw_Kuh8lybXeAXaCFSUBPBGMI&volcSecret=055f27c8dbfeabe85a3a9d34146c4566&volcTime=1780880440
+http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备1]
 http://lu.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备2]
-http://212.50.250.253:7788/5000000010000017540/bestzb/index.m3u8
+http://116.235.81.8:5140/地方/五星体育HD
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备3]
 http://itv.uat.news/TVOD/2000000002000000007/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="" group-title="[高清]F1",五星体育[备4]
